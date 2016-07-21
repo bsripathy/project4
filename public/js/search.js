@@ -25,3 +25,8 @@ function down() {
     clearTimeout(timer);
 
 }
+
+function tryjava(){
+     var keywords = $_POST['tagvalue'].val();
+    alert ("texas");
+}
